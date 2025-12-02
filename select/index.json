@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "エイプリル",
+  "base_artist": "mol-74",
+  "createdAt": "2025-12-02T17:53:57.441950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "APRIL STARS(エイプリル スターズ)",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/01_APRIL_STARS(エイプリル_スターズ)_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エイプリル",
+      "artist": "mol-74",
+      "has_synced": true,
+      "path": "select/02_エイプリル_mol-74.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エイプリル",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/03_エイプリル_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エイプリル",
+      "artist": "mol-74",
+      "has_synced": true,
+      "path": "select/04_エイプリル_mol-74.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エイプリル・フール",
+      "artist": "濱田金吾",
+      "has_synced": true,
+      "path": "select/05_エイプリル・フール_濱田金吾.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エイプリル",
+      "artist": "mol-74",
+      "has_synced": false,
+      "path": "select/pl_01_エイプリル_mol-74.txt"
+    }
+  ]
+}
